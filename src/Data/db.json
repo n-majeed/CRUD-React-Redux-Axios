@@ -1,0 +1,58 @@
+{
+  "student": [
+    {
+      "student": {
+        "id": 2,
+        "name": "khalid",
+        "myclass": "dffdf",
+        "section": "dfd"
+      },
+      "class": {
+        "id": "fdfd",
+        "name": "dffdf",
+        "description": "fdd"
+      },
+      "section": {
+        "id": "fdfd",
+        "section": "dfd"
+      },
+      "id": 2
+    },
+    {
+      "student": {
+        "id": 1,
+        "name": "hina",
+        "myclass": "g-4",
+        "section": "kiyt"
+      },
+      "class": {
+        "id": "rt456",
+        "name": "g-4",
+        "description": "data eng"
+      },
+      "section": {
+        "id": "gthd",
+        "section": "kiyt"
+      },
+      "id": 3
+    },
+    {
+      "student": {
+        "id": 1,
+        "name": "waleed",
+        "myclass": "f3",
+        "section": "kdf"
+      },
+      "class": {
+        "id": "df4343",
+        "name": "f3",
+        "description": "software engineering"
+      },
+      "section": {
+        "id": "kdjlf",
+        "section": "kdf"
+      },
+      "id": 4
+    }
+  ]
+}
